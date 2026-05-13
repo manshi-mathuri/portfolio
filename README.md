@@ -61,6 +61,4 @@ npm run dev
 
 **Manshi Kumari**
 
-## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
